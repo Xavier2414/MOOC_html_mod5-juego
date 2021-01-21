@@ -27,15 +27,6 @@ html {
 	}
 }
 
-.gamebutton {
-	border: none;
-	background: #ddd;
-	color: #333;
-	padding: 10px 20px;
-	outline: none;
-	font-family: monospace;
-	cursor: pointer;
-}
 body {
 
 background-image:url(./assets/fondo.jpg);
