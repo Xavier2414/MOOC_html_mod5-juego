@@ -11,15 +11,7 @@ html {
 	animation: none;
 	-webkit-animation: none;
 }
-@media screen and (min-width: 480px){
 
-}
-@media screen and (min-width: 767px){
-
-}
-@media screen and (min-width: 950px){
-
-}
 @-webkit-keyframes rotation {
 	from {
 		transform: rotate(0deg);
